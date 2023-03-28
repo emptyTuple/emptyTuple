@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @EmptyTuple, my name is Sergey
+- 👋 Hi, I’m @emptyTuple, my name is Sergey
 - 👀 I’m interested in learning.
-- 🌱 I’m currently learning Java
